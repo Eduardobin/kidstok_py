@@ -6,8 +6,8 @@ import leitor_txt
 
 
 
-
-lista_de_vendedoras_taubate = 'Diana','Debora', 'Bruna', 'Free'
+lista_de_vendedoras_taubate = 'Fernanda','Leticia', 'Victoria', 'Luara', 'Duda', 'Diane'
+#lista_de_vendedoras_taubate = 'Diana','Debora', 'Bruna', 'Free'
 lista_de_modos_de_pagamento = 'dinheiro', 'pix', 'credito a vista', 'credito parcelado', 'debito a vista', 'link'
 meses_do_ano = 'jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'
 lista_de_saidas = 'Pedidos', 'Aluguel', 'Pro labore', 'Vale Transporte', 'Funcionarios', 'Limpeza da Vitrine', 'Custo lojas (papelaria,agua,cafe)', 'Despesas Comerciais', 'Despesas Administrativas', 'Contabilidade', 'Medicina do Trabalho', 'Gcom', 'Sindicato', 'FGTS', 'Simples Nacional', 'Lanche domingo funcionaria', 'Internet'
